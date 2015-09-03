@@ -1,0 +1,5 @@
+C:\magi\aula\primeri.csharp.terminal\HelloAula\HelloAula\bin\Debug\HelloAula.exe
+C:\magi\aula\primeri.csharp.terminal\HelloAula\HelloAula\bin\Debug\HelloAula.pdb
+C:\magi\aula\primeri.csharp.terminal\HelloAula\HelloAula\obj\Debug\ResolveAssemblyReference.cache
+C:\magi\aula\primeri.csharp.terminal\HelloAula\HelloAula\obj\Debug\HelloAula.exe
+C:\magi\aula\primeri.csharp.terminal\HelloAula\HelloAula\obj\Debug\HelloAula.pdb
