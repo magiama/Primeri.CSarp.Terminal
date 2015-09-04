@@ -1,0 +1,5 @@
+C:\magi\aula\primeri.csharp.terminal\ReadFromCommandLine\bin\Release\ReadFromCommandLine.exe
+C:\magi\aula\primeri.csharp.terminal\ReadFromCommandLine\bin\Release\ReadFromCommandLine.pdb
+C:\magi\aula\primeri.csharp.terminal\ReadFromCommandLine\obj\Release\ResolveAssemblyReference.cache
+C:\magi\aula\primeri.csharp.terminal\ReadFromCommandLine\obj\Release\ReadFromCommandLine.exe
+C:\magi\aula\primeri.csharp.terminal\ReadFromCommandLine\obj\Release\ReadFromCommandLine.pdb
